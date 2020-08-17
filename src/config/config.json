@@ -1,0 +1,13 @@
+{
+  "modulesPath": [
+    "modules",
+    "@bhe/core-modules/lib/modules",
+    "@bhe/guardx-module/lib/modules"
+  ],
+  "modelsPath": [
+    "models",
+    "@bhe/core-modules/lib/models",
+    "@bhe/guardx-module/lib/models"
+  ],
+  "cachePath": "./cache"
+}

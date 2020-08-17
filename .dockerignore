@@ -1,0 +1,7 @@
+.git
+Dockerfile
+.gitignore
+node_modules
+dist
+_submodules
+.idea

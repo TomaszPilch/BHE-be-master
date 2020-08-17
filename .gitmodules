@@ -1,0 +1,12 @@
+[submodule "_submodules/node-core"]
+	path = _submodules/node-core
+	url = https://bitbucket.org/devx-agency/bhe-node-core.git
+	ignore = all
+[submodule "_submodules/core-modules"]
+	path = _submodules/core-modules
+	url = https://bitbucket.org/devx-agency/bhe-core-modules.git
+	ignore = all
+[submodule "_submodules/guardx-module"]
+	path = _submodules/guardx-module
+	url = https://bitbucket.org/devx-agency/guardx-module.git
+	ignore = all
